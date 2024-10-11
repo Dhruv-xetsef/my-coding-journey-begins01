@@ -112,3 +112,8 @@ def to_do_list():
             print("Invalid choice, please enter a valid choice.")
 
 to_do_list()
+
+
+
+
+'''message for myself to never repeat my mistakes'''
