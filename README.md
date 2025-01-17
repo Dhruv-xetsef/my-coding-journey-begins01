@@ -1,5 +1,5 @@
 # my-python-journey-begins01
-this is my first program
+<div>This is my python learning repository</div>
 <br>
-author- Dhruv
+<b></b>author- Dhruv</b>
 
